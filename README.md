@@ -12,12 +12,8 @@ A página web é estática e é gerada a partir da execução do script python '
 
 Ao executá-lo, o script carrega um arquivo no formato .yaml que contém todas as informações relacionados aos filmes exibidos. Após as informações serem carregadas, o script 'fresh_tomatoes.py' recebe esse conjunto de informações, é executado e dele é gerado o arquivo de entrada do projeto, o fresh_tomatoes.html.
 
-===============================================
-Pré-requisitos do projeto:                
-                                          
-- Versão do Python: 2.7.9                 
-                       		            
-- É necessário a instalação da lib pyyaml:
-  Versão usada para desenvolvimento 3.13  
-===============================================
 
+Pré-requisitos do projeto:
+                
+- Versão do Python: 2.7.9
+- É necessário a instalação da lib pyyaml: 3.13 (Versão usada para desenvolvimento)
