@@ -17,3 +17,7 @@ Pré-requisitos do projeto:
                 
 - Versão do Python: 2.7.9
 - É necessário a instalação da lib pyyaml: 3.13 (Versão usada para desenvolvimento)
+
+
+Fontes consultadas:
+- https://pyyaml.org/wiki/PyYAMLDocumentation
