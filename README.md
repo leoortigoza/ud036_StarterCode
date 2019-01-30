@@ -21,3 +21,9 @@ Pré-requisitos do projeto:
 
 Fontes consultadas:
 - https://pyyaml.org/wiki/PyYAMLDocumentation
+- https://www.themoviedb.org/
+- https://developers.themoviedb.org/3/getting-started/introduction
+- https://github.com/celiao/tmdbsimple
+- https://pypi.org/project/tmdbsimple/
+- https://www.pydoc.io/pypi/tmdbsimple-1.8.0/index.html
+- https://www.pythonforbeginners.com/error-handling/python-try-and-except
