@@ -27,7 +27,7 @@ Após os dados dos filmes serem coletados, o script 'fresh_tomatoes.py' recebe e
 - É necessário possuir uma API_KEY para acesso à API do themoviedb.org (que pode ser gerada no próprio site https://www.themoviedb.org/).
 
 
-##Fontes consultadas:
+## Fontes consultadas:
 - https://pyyaml.org/wiki/PyYAMLDocumentation
 - https://www.themoviedb.org/
 - https://developers.themoviedb.org/3/getting-started/introduction
